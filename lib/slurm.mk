@@ -8,7 +8,7 @@ WHOAMI = $(shell whoami)
 ifeq ("$(WHOAMI)","tiedeman")
   EMAIL = jorg.tiedemann@helsinki.fi
 endif
-
+EMAIL = tommi.nieminen@helsinki.fi
 
 ##---------------------------------------------
 ## submit jobs

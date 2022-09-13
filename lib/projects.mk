@@ -26,3 +26,4 @@ include ${REPOHOME}lib/projects/tatoeba.mk
 include ${REPOHOME}lib/projects/americasnlp2021.mk
 
 include ${REPOHOME}lib/projects/distill.mk
+include ${REPOHOME}lib/projects/opuscat.mk
